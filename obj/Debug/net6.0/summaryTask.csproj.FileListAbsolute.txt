@@ -1,0 +1,15 @@
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\bin\Debug\net6.0\summaryTask.exe
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\bin\Debug\net6.0\summaryTask.deps.json
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\bin\Debug\net6.0\summaryTask.runtimeconfig.json
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\bin\Debug\net6.0\summaryTask.dll
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\bin\Debug\net6.0\summaryTask.pdb
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.csproj.AssemblyReference.cache
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.AssemblyInfoInputs.cache
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.AssemblyInfo.cs
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.csproj.CoreCompileInputs.cache
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.dll
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\refint\summaryTask.dll
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.pdb
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\summaryTask.genruntimeconfig.cache
+C:\Users\pvb07\Desktop\GB\1_c#\HW13\summaryTask\obj\Debug\net6.0\ref\summaryTask.dll
