@@ -20,3 +20,11 @@ while (index < size)
     else array[index] = input;
     index++;
 }
+
+Console.WriteLine("\nРезультат : ");
+Console.Write("[{0}]", string.Join(", ", array));
+
+array = array.Where(val => val.Length < 4).ToArray();
+
+Console.Write(" -> ");
+Console.Write("[{0}]", string.Join(", ", array));
